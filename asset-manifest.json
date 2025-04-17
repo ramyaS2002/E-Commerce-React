@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ramyaS2002/E-Commerce-React/static/css/main.b303a67b.css",
-    "main.js": "/ramyaS2002/E-Commerce-React/static/js/main.7871225f.js",
+    "main.js": "/ramyaS2002/E-Commerce-React/static/js/main.a1a83acd.js",
     "static/js/453.4297e0f3.chunk.js": "/ramyaS2002/E-Commerce-React/static/js/453.4297e0f3.chunk.js",
     "static/media/banner_kids.png": "/ramyaS2002/E-Commerce-React/static/media/banner_kids.fff815a581793a7380fb.png",
     "static/media/banner_women.png": "/ramyaS2002/E-Commerce-React/static/media/banner_women.5a27fc4e4533e57e4676.png",
@@ -47,11 +47,11 @@
     "static/media/hand_icon.png": "/ramyaS2002/E-Commerce-React/static/media/hand_icon.9c7487cecb600f30901b.png",
     "index.html": "/ramyaS2002/E-Commerce-React/index.html",
     "main.b303a67b.css.map": "/ramyaS2002/E-Commerce-React/static/css/main.b303a67b.css.map",
-    "main.7871225f.js.map": "/ramyaS2002/E-Commerce-React/static/js/main.7871225f.js.map",
+    "main.a1a83acd.js.map": "/ramyaS2002/E-Commerce-React/static/js/main.a1a83acd.js.map",
     "453.4297e0f3.chunk.js.map": "/ramyaS2002/E-Commerce-React/static/js/453.4297e0f3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b303a67b.css",
-    "static/js/main.7871225f.js"
+    "static/js/main.a1a83acd.js"
   ]
 }
